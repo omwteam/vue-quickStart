@@ -1,0 +1,16 @@
+body {
+  background-color: #38333d;
+  color: white;
+}
+.pull-left {
+  float: left;
+}
+.pull-right {
+  float: right;
+}
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+

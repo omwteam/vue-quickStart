@@ -1,0 +1,67 @@
+/*! minireset.css v0.0.2 | MIT License | github.com/jgthms/minireset.css */
+html,
+body,
+p,
+ol,
+ul,
+li,
+textarea,
+hr,
+h1,
+h2,
+h3,
+h4,
+h5
+{
+  margin: 0;
+  padding: 0;
+}
+body {
+  -webkit-text-size-adjust: none;
+  -webkit-overflow-scrolling : touch;
+  -webkit-tap-highlight-color: transparent;/* 当点击按钮时会有一个默认的边框颜色 这个是用来覆盖高亮显示 */
+  -webkit-user-select: none;
+  font-size: 14px;
+  font-family: "Helvetica Neue", Helvetica, STHeiTi, sans-serif;
+}
+
+ul {
+  list-style: none;
+}
+
+button,
+input,
+select,
+textarea {
+  margin: 0;
+}
+input:focus,input:active,button:focus,button:active,textarea:active,textarea:focus,select:active,select:focus,div[contenteditable=true]:active,div[contenteditable=true]:focus {
+  outline: none;
+}
+/*去掉type=search默认的取消图标*/
+input::-webkit-search-cancel-button {
+  display: none;
+}
+/*解决焦点在 input 时，placeholder 没有隐藏*/
+input:focus::-webkit-input-placeholder {
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+img,
+audio,
+video {
+  height: auto;
+  max-width: 100%;
+}
+article, footer, header, nav, section  {
+  display: block;
+}
+

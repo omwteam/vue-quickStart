@@ -1,0 +1,38 @@
+[
+  {
+    "id"  :" 17",
+   "info" : "酷我最权威、播放量最高新歌尽在此榜～",
+    "name":  "酷我新歌榜",
+    "pic" :  "http://img1.kwcdn.kuwo.cn/star/upload/9/9/1481783631321_.png"
+  },
+  {
+    "id"  :" 93",
+    "info" : "收录一周播放次数涨幅最高的TOP200歌曲！",
+    "name":  "酷我飙升榜",
+    "pic" :  "http://img4.kwcdn.kuwo.cn/star/upload/9/9/1481783338617_.png"
+  },
+  {
+    "id"  :" 130",
+    "info" : "酷音乐流行榜是酷狗、酷我联合推出的权威性榜单，以用户真实搜索数据为基础客观、精准的反应了亿万网友对音乐的收听和喜爱情况。",
+    "name":  "酷音乐流行榜",
+    "pic" :  "http://img1.kwcdn.kuwo.cn/star/upload/5/5/1481781774229_.png"
+  },
+  {
+    "id"  :" 62",
+    "info" : "时下最热华语歌曲，尽在酷我华语榜",
+    "name":  "酷我华语榜",
+    "pic" :  "http://img2.kwcdn.kuwo.cn/star/upload/0/0/1481783520448_.png"
+  },
+  {
+    "id"  :" 22",
+    "info" : "酷我最权威、播放量最高新歌尽在此榜～",
+    "name":  "酷我新歌榜",
+    "pic" :  "http://img4.kwcdn.kuwo.cn/star/upload/10/10/1481783539562_.png"
+  },
+  {
+    "id"  :" 63",
+    "info" : "酷我最权威、播放量最高新歌尽在此榜～",
+    "name":  "酷我新歌榜",
+    "pic" :  "http://img2.kwcdn.kuwo.cn/star/upload/7/7/1481783803575_.png"
+  }
+]
